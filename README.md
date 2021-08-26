@@ -8,7 +8,7 @@
 
 <br />
 
-Hi I'm Ali Rasoui , a self-taught Flutter developer . After 8 years of exprience of native android developing, I decided to switch to Flutter for multi-platform development purposes. I'm fluent in english and I can speak russian and spanish. 
+Hi I'm Ali Rasoui , a self-taught Flutter developer . After 8 years of exprience in native android developing, I decided to switch to Flutter for multi-platform development purposes. I'm fluent in english and I can speak russian and spanish. 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
