@@ -35,6 +35,4 @@
 <a href="https://www.linkedin.com/in/ali-rasouli-2ab285132"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:rasouliali1379@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/fullmetaldvlpr?t=5QQtw8sfDECjDtSsbljF7Q&s=09"><img src="https://img.shields.io/badge/-@fullmetaldvlpr_-E4405F?style=flat&logo=twitter"/></a> &nbsp;
-![wave](https://raw.githubusercontent.com/rasouliali1379
-/rasouliali1379
-/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![wave](https://raw.githubusercontent.com/rasouliali1379/rasouliali1379/main/wave.svg)
