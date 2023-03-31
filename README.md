@@ -8,13 +8,13 @@
 
 <br />
 
-Hi I'm Ali Rasoui , a self-taught Flutter developer . After 8 years of exprience in native android developing, I decided to switch to Flutter for multi-platform development purposes. I'm fluent in english and I can speak russian and spanish. 
+Hi I'm Ali Rasoui , a computer engineer student. For many years I worked as a mobile developer. Spent many years on Android native development using Java and Kotlin. After that I became Flutter developer for a year and half. I Switched to backend now and I'm working as a Go developer.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**  
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
